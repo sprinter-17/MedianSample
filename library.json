@@ -1,0 +1,20 @@
+{
+    "name": "MedianSample",
+    "version": "1.0.0",
+    "description": "A class that allows the median of a set of samples to be calculated",
+    "keywords": "median, sample",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/sprinter-17/median-sample.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Simon Pincus"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+  }
